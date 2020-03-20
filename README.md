@@ -1,4 +1,4 @@
-# Edgeryders Festival 2019 Setup
+# Edgeryders Start Page
 
 The site uses Tailwind CSS and Purge CSS for styling.
 
